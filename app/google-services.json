@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755970679533",
+    "firebase_url": "https://searchiigo-e9670.firebaseio.com",
+    "project_id": "searchiigo-e9670",
+    "storage_bucket": "searchiigo-e9670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755970679533:android:91e8ca51cac283cc",
+        "android_client_info": {
+          "package_name": "com.zerosymbol.diirectorylisting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755970679533-49a3va396ru33v1v1aon72n6oj3ninbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YZuX1RkPeIRAdPAJ3LWiVKr-_oy8I5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755970679533-49a3va396ru33v1v1aon72n6oj3ninbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
