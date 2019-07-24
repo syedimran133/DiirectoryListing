@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#dcdcdc">
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#80dcdcdc"
+                android:orientation="vertical"
+                android:padding="@dimen/_7dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:background="#80dcdcdc"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="110dp"
+                        android:background="#acd1da"
+                        android:orientation="horizontal" />
+
+                    <ImageView
+                        android:id="@+id/iv_profile"
+                        android:layout_width="85dp"
+                        android:layout_height="84dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="@dimen/_15dp"
+                        android:layout_marginBottom="@dimen/_40dp"
+                        android:background="@drawable/profile" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignRight="@+id/iv_profile"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="125dp"
+                        android:layout_marginRight="-185dp"
+                        android:layout_marginBottom="40dp"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/iv_like"
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:src="@drawable/favourite" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_10dp"
+                            android:orientation="vertical">
+
+                            <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="MNO Category"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                                android:textColor="#80009D74"
+                                android:textStyle="bold" />
+
+                            <com.zerosymbol.directorylisting.custom.CustomTextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Listed 32 days ago"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                                android:textColor="#323232" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginLeft="@dimen/_15dp"
+                        android:layout_marginBottom="@dimen/_10dp"
+                        android:orientation="horizontal">
+
+                        <RatingBar
+                            android:id="@+id/ratingBar2"
+                            style="?android:attr/ratingBarStyleSmall"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tv_cat"
+                            android:backgroundTint="@color/colorStar"
+                            android:numStars="5"
+                            android:progressTint="@color/colorStar"
+                            android:rating="5.0"
+                            android:secondaryProgressTint="@android:color/transparent"
+                            android:stepSize="1.0"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_10dp"
+                            android:text="3.8"
+                            android:textColor="#8B0000" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="/5"
+                            android:textColor="#666666" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_25dp"
+                            android:text="71 Reviews  >"
+                            android:textColor="#008000" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingTop="@dimen/_15dp"
+                    android:paddingBottom="@dimen/_15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/call" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+                            android:id="@+id/textView3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_7dp"
+                            android:gravity="center"
+                            android:text="CALL"
+                            android:textColor="#259dfa"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/mail" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_7dp"
+                            android:gravity="center"
+                            android:text="EMAIL"
+                            android:textColor="#259dfa"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/chat" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_7dp"
+                            android:gravity="center"
+                            android:text="LIVE CHAT"
+                            android:textColor="#259dfa"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_15dp"
+                    android:background="#ffffff"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:background="@drawable/map" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="@dimen/_7dp">
+
+                        <ImageView
+                            android:id="@+id/imageView4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:src="@drawable/lat" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextView
+                            android:id="@+id/textView4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Geolocation Address- Road no 43b, Gandhi chowk, Ashokrapath, Patna Bihar-800005" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_7dp">
+
+                    <ImageView
+                        android:id="@+id/imageVi"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/avbile" />
+
+                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                        android:id="@+id/textView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/_10dp"
+                        android:text="Available Now"
+                        android:textColor="#FF0000"
+                        android:textStyle="bold" />
+
+                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                        android:id="@+id/textView7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/_15dp"
+                        android:text="Mon"
+                        android:textColor="#009D74"
+                        android:textStyle="bold" />
+
+                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                        android:id="@+id/textView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/_5dp"
+                        android:text="7AM - 8AM"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/rv_cat"
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:layout_marginTop="@dimen/_7dp"
+                    android:layout_marginBottom="@dimen/_7dp"
+                    android:scrollbars="vertical" />
+
+                <com.zerosymbol.directorylisting.custom.CustomTextView
+                    android:id="@+id/t_about"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="@dimen/_5dp"
+                    android:layout_marginTop="@dimen/_5dp"
+                    android:background="#ffffff"
+                    android:padding="@dimen/_7dp"
+                    android:text="LX Group is a global online marketplace (headquartered in Amsterdam, and owned by South African media and technology group Naspers),[1] founded in 2006 and operating in 45 countries.[2]The OLX marketplace is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, Properties, cars and bikes. In 2014, the platform reportedly had 11 billion page views, 200 million monthly active users, 25 million listings, and 8.5 million transactions per month.[1]South African media group Naspers acquired a majority of OLX in 2010 and 95% of the company in 2014.[3] "
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</layout>

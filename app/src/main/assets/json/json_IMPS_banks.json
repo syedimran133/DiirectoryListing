@@ -1,0 +1,1511 @@
+{
+  "status": 0,
+  "banks": [
+    {
+      "id": 2,
+      "bank_name": "AXIS BANK",
+      "bank_code": "UTIB",
+      "ifsc": "UTIB0000073"
+    },
+    {
+      "id": 3,
+      "bank_name": "BANK OF BARODA (BOB)",
+      "bank_code": "BARB",
+      "ifsc": "BARB0HEADOF"
+    },
+    {
+      "id": 4,
+      "bank_name": "BANK OF INDIA (BOI)",
+      "bank_code": "BKID",
+      "ifsc": "BKID0007109"
+    },
+    {
+      "id": 5,
+      "bank_name": "CENTRAL BANK OF INDIA (CBI)",
+      "bank_code": "CBIN",
+      "ifsc": "CBIN0011102"
+    },
+    {
+      "id": 6,
+      "bank_name": "CITIBANK NA",
+      "bank_code": "CITI",
+      "ifsc": ""
+    },
+    {
+      "id": 7,
+      "bank_name": "HDFC BANK LTD",
+      "bank_code": "HDFC",
+      "ifsc": "HDFC0000001"
+    },
+    {
+      "id": 8,
+      "bank_name": "ICICI BANK LTD",
+      "bank_code": "ICIC",
+      "ifsc": "ICIC0000001"
+    },
+    {
+      "id": 9,
+      "bank_name": "IDBI BANK LTD",
+      "bank_code": "IBKL",
+      "ifsc": "IBKL0000001"
+    },
+    {
+      "id": 10,
+      "bank_name": "INDIAN BANK (IB)",
+      "bank_code": "IDIB",
+      "ifsc": "IDIB000S152"
+    },
+    {
+      "id": 11,
+      "bank_name": "INDIAN OVERSEAS BANK (IOB)",
+      "bank_code": "IOBA",
+      "ifsc": "IOBA0001719"
+    },
+    {
+      "id": 12,
+      "bank_name": "PUNJAB NATIONAL BANK (PNB)",
+      "bank_code": "PUNB",
+      "ifsc": "PUNB0012000"
+    },
+    {
+      "id": 13,
+      "bank_name": "STATE BANK OF BIKANER AND JAIPUR (SBBJ)",
+      "bank_code": "SBBJ",
+      "ifsc": "SBBJ0010811"
+    },
+    {
+      "id": 14,
+      "bank_name": "UNION BANK OF INDIA (UBI)",
+      "bank_code": "UBIN",
+      "ifsc": "UBIN0564273"
+    },
+    {
+      "id": 15,
+      "bank_name": "UCO BANK",
+      "bank_code": "UCBA",
+      "ifsc": "UCBA0002922"
+    },
+    {
+      "id": 16,
+      "bank_name": "YES BANK",
+      "bank_code": "YESB",
+      "ifsc": "YESB0000002"
+    },
+    {
+      "id": 17,
+      "bank_name": "DENA BANK",
+      "bank_code": "BKDN",
+      "ifsc": "BKDN0721125"
+    },
+    {
+      "id": 18,
+      "bank_name": "ABHYUDAYA CO-OP BANK LTD",
+      "bank_code": "ABHY",
+      "ifsc": null
+    },
+    {
+      "id": 19,
+      "bank_name": "ABU DHABI COMMERCIAL BANK",
+      "bank_code": "ADCB",
+      "ifsc": null
+    },
+    {
+      "id": 20,
+      "bank_name": "ALLAHABAD BANK",
+      "bank_code": "ALLA",
+      "ifsc": "ALLA0210918"
+    },
+    {
+      "id": 21,
+      "bank_name": "ANDHRA BANK",
+      "bank_code": "ANDB",
+      "ifsc": "ANDB0001106"
+    },
+    {
+      "id": 22,
+      "bank_name": "BANK OF AMERICA",
+      "bank_code": "BOFA",
+      "ifsc": null
+    },
+    {
+      "id": 23,
+      "bank_name": "BANK OF BAHRAIN AND KUWAIT",
+      "bank_code": "BBKM",
+      "ifsc": null
+    },
+    {
+      "id": 24,
+      "bank_name": "BANK OF CEYLON",
+      "bank_code": "BCEY",
+      "ifsc": null
+    },
+    {
+      "id": 25,
+      "bank_name": "BANK OF MAHARASHTRA",
+      "bank_code": "MAHB",
+      "ifsc": "MAHB0001340"
+    },
+    {
+      "id": 26,
+      "bank_name": "BANK OF TOKYO-MITSUBISHI UFJ LTD",
+      "bank_code": "BOTM",
+      "ifsc": null
+    },
+    {
+      "id": 27,
+      "bank_name": "BARCLAYS BANK PLC",
+      "bank_code": "BARC",
+      "ifsc": null
+    },
+    {
+      "id": 28,
+      "bank_name": "BASSEIN CATHOLIC CO-OP BANK LTD",
+      "bank_code": "BACB",
+      "ifsc": null
+    },
+    {
+      "id": 29,
+      "bank_name": "BNP PARIBAS",
+      "bank_code": "BNPA",
+      "ifsc": "BNPA0009065"
+    },
+    {
+      "id": 30,
+      "bank_name": "CANARA BANK",
+      "bank_code": "CNRB",
+      "ifsc": "CNRB0002886"
+    },
+    {
+      "id": 31,
+      "bank_name": "CATHOLIC SYRIAN BANK LTD",
+      "bank_code": "CSBK",
+      "ifsc": "CSBK0000297"
+    },
+    {
+      "id": 32,
+      "bank_name": "CHINATRUST COMMERCIAL BANK",
+      "bank_code": "CTCB",
+      "ifsc": null
+    },
+    {
+      "id": 33,
+      "bank_name": "CITIZEN CREDIT CO-OP BANK LTD",
+      "bank_code": "CCBL",
+      "ifsc": null
+    },
+    {
+      "id": 34,
+      "bank_name": "CITY UNION BANK LTD",
+      "bank_code": "CIUB",
+      "ifsc": null
+    },
+    {
+      "id": 35,
+      "bank_name": "CORPORATION BANK",
+      "bank_code": "CORP",
+      "ifsc": ""
+    },
+    {
+      "id": 36,
+      "bank_name": "CREDIT AGRICOLE CORP N INVSMNT BANK",
+      "bank_code": "CRLY",
+      "ifsc": null
+    },
+    {
+      "id": 37,
+      "bank_name": "DBS BANK LTD",
+      "bank_code": "DBSS",
+      "ifsc": "DBSS0IN0820"
+    },
+    {
+      "id": 38,
+      "bank_name": "DEUTSCHE BANK AG",
+      "bank_code": "DEUT",
+      "ifsc": null
+    },
+    {
+      "id": 39,
+      "bank_name": "DEVELOPMENT CREDIT BANK LIMITED",
+      "bank_code": "DCBL",
+      "ifsc": "DCBL0000119"
+    },
+    {
+      "id": 40,
+      "bank_name": "DHANLAXMI BANK LTD",
+      "bank_code": "DLXB",
+      "ifsc": ""
+    },
+    {
+      "id": 41,
+      "bank_name": "DICGC",
+      "bank_code": "DICG",
+      "ifsc": null
+    },
+    {
+      "id": 42,
+      "bank_name": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED",
+      "bank_code": "DNSB",
+      "ifsc": null
+    },
+    {
+      "id": 43,
+      "bank_name": "FIRSTRAND BANK LIMITED",
+      "bank_code": "FIRN",
+      "ifsc": null
+    },
+    {
+      "id": 44,
+      "bank_name": "HSBC",
+      "bank_code": "HSBC",
+      "ifsc": "HSBC0110007"
+    },
+    {
+      "id": 45,
+      "bank_name": "INDUSIND BANK LIMITED",
+      "bank_code": "INDB",
+      "ifsc": "INDB0000588"
+    },
+    {
+      "id": 46,
+      "bank_name": "ING VYSYA BANK",
+      "bank_code": "VYSA",
+      "ifsc": null
+    },
+    {
+      "id": 47,
+      "bank_name": "JANAKALYAN SAHAKARI BANK LTD",
+      "bank_code": "JSBL",
+      "ifsc": null
+    },
+    {
+      "id": 48,
+      "bank_name": "JANATA SAHAKARI BANK LTD (PUNE)",
+      "bank_code": "JSBP",
+      "ifsc": null
+    },
+    {
+      "id": 49,
+      "bank_name": "JPMORGAN CHASE BANK NA",
+      "bank_code": "CHAS",
+      "ifsc": null
+    },
+    {
+      "id": 50,
+      "bank_name": "KAPOLE CO OP BANK",
+      "bank_code": "KCBL",
+      "ifsc": null
+    },
+    {
+      "id": 51,
+      "bank_name": "KARNATAKA BANK LTD",
+      "bank_code": "KARB",
+      "ifsc": "KARB0000545"
+    },
+    {
+      "id": 52,
+      "bank_name": "KARUR VYSYA BANK (KVB)",
+      "bank_code": "KVBL",
+      "ifsc": "KVBL0001101"
+    },
+    {
+      "id": 53,
+      "bank_name": "KOTAK MAHINDRA BANK (KMB)",
+      "bank_code": "KKBK",
+      "ifsc": "KKBK0000181"
+    },
+    {
+      "id": 54,
+      "bank_name": "MAHANAGAR CO-OP BANK LTD",
+      "bank_code": "MCBL",
+      "ifsc": null
+    },
+    {
+      "id": 55,
+      "bank_name": "MAHARASHTRA STATE CO OPERATIVE BANK",
+      "bank_code": "MSCI",
+      "ifsc": null
+    },
+    {
+      "id": 56,
+      "bank_name": "MASHREQ BANK PSC",
+      "bank_code": "MSHQ",
+      "ifsc": null
+    },
+    {
+      "id": 57,
+      "bank_name": "MIZUHO CORPORATE BANK LTD",
+      "bank_code": "MHCB",
+      "ifsc": null
+    },
+    {
+      "id": 58,
+      "bank_name": "NEW INDIA CO-OPERATIVE BANK LTD",
+      "bank_code": "NICB",
+      "ifsc": null
+    },
+    {
+      "id": 59,
+      "bank_name": "NKGSB CO-OP BANK LTD",
+      "bank_code": "NKGS",
+      "ifsc": null
+    },
+    {
+      "id": 60,
+      "bank_name": "NUTAN NAGARIK SAHAKARI BANK LTD",
+      "bank_code": "NNSB",
+      "ifsc": null
+    },
+    {
+      "id": 61,
+      "bank_name": "OMAN INTERNATIONAL BANK SAOG",
+      "bank_code": "OIBA",
+      "ifsc": null
+    },
+    {
+      "id": 62,
+      "bank_name": "ORIENTAL BANK OF COMMERCE (OBC)",
+      "bank_code": "ORBC",
+      "ifsc": "ORBC0100931"
+    },
+    {
+      "id": 63,
+      "bank_name": "PARSIK JANATA SAHAKARI BANK LTD",
+      "bank_code": "PJSB",
+      "ifsc": null
+    },
+    {
+      "id": 64,
+      "bank_name": "PUNJAB AND MAHARASHTRA CO-OP BANK LTD",
+      "bank_code": "PMCB",
+      "ifsc": null
+    },
+    {
+      "id": 65,
+      "bank_name": "PUNJAB AND SIND BANK (PSB)",
+      "bank_code": "PSIB",
+      "ifsc": "PSIB0000878"
+    },
+    {
+      "id": 66,
+      "bank_name": "RAJKOT NAGARIK SAHAKARI BANK LTD",
+      "bank_code": "RNSB",
+      "ifsc": null
+    },
+    {
+      "id": 67,
+      "bank_name": "RESERVE BANK OF INDIA",
+      "bank_code": "RBIS",
+      "ifsc": null
+    },
+    {
+      "id": 68,
+      "bank_name": "SHINHAN BANK",
+      "bank_code": "SHBK",
+      "ifsc": null
+    },
+    {
+      "id": 69,
+      "bank_name": "SOCIETE GENERALE",
+      "bank_code": "SOGE",
+      "ifsc": null
+    },
+    {
+      "id": 70,
+      "bank_name": "SOUTH INDIAN BANK (SIB)",
+      "bank_code": "SIBL",
+      "ifsc": ""
+    },
+    {
+      "id": 71,
+      "bank_name": "STANDARD CHARTERED BANK (SCB)",
+      "bank_code": "SCBL",
+      "ifsc": "SCBL0036024"
+    },
+    {
+      "id": 72,
+      "bank_name": "STATE BANK OF HYDERABAD (SBH)",
+      "bank_code": "SBHY",
+      "ifsc": "SBHY0020730"
+    },
+    {
+      "id": 73,
+      "bank_name": "STATE BANK OF MAURITIUS LTD",
+      "bank_code": "STCB",
+      "ifsc": null
+    },
+    {
+      "id": 74,
+      "bank_name": "STATE BANK OF MYSORE (SBM)",
+      "bank_code": "SBMY",
+      "ifsc": null
+    },
+    {
+      "id": 75,
+      "bank_name": "STATE BANK OF TRAVANCORE (SBT)",
+      "bank_code": "SBTR",
+      "ifsc": "SBTR0000925"
+    },
+    {
+      "id": 76,
+      "bank_name": "STATE BANK OF PATIALA (SBP)",
+      "bank_code": "STBP",
+      "ifsc": "STBP0001021"
+    },
+    {
+      "id": 77,
+      "bank_name": "SYNDICATE BANK",
+      "bank_code": "SYNB",
+      "ifsc": null
+    },
+    {
+      "id": 78,
+      "bank_name": "TAMILNAD MERCANTILE BANK LTD",
+      "bank_code": "TMBL",
+      "ifsc": null
+    },
+    {
+      "id": 79,
+      "bank_name": "THE BANK OF NOVA SCOTIA",
+      "bank_code": "NOSC",
+      "ifsc": null
+    },
+    {
+      "id": 80,
+      "bank_name": "THE AHMEDABAD MERCANTILE CO-OPERATIVE BANK LTD",
+      "bank_code": "AMCB",
+      "ifsc": null
+    },
+    {
+      "id": 81,
+      "bank_name": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+      "bank_code": "BCBM",
+      "ifsc": null
+    },
+    {
+      "id": 82,
+      "bank_name": "THE COSMOS CO-OPERATIVE BANK LTD",
+      "bank_code": "COSB",
+      "ifsc": null
+    },
+    {
+      "id": 83,
+      "bank_name": "THE FEDERAL BANK LTD (FBL)",
+      "bank_code": "FDRL",
+      "ifsc": ""
+    },
+    {
+      "id": 84,
+      "bank_name": "THE GREATER BOMBAY CO-OP BANK LTD",
+      "bank_code": "GBCB",
+      "ifsc": null
+    },
+    {
+      "id": 85,
+      "bank_name": "THE JAMMU AND KASHMIR BANK LTD (J&K)",
+      "bank_code": "JAKA",
+      "ifsc": ""
+    },
+    {
+      "id": 86,
+      "bank_name": "THE KALUPUR COMMERCIAL CO OP BANK LTD",
+      "bank_code": "KCCB",
+      "ifsc": null
+    },
+    {
+      "id": 87,
+      "bank_name": "THE KARNATAKA STATE APEX COOP BANK",
+      "bank_code": "KSBC",
+      "ifsc": null
+    },
+    {
+      "id": 88,
+      "bank_name": "THE KALYAN JANATA SAHAKARI BANK LTD",
+      "bank_code": "KJSB",
+      "ifsc": null
+    },
+    {
+      "id": 89,
+      "bank_name": "THE LAKSHMI VILAS BANK LTD",
+      "bank_code": "LAVB",
+      "ifsc": "LAVB0000504"
+    },
+    {
+      "id": 90,
+      "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK LTD",
+      "bank_code": "MSNU",
+      "ifsc": null
+    },
+    {
+      "id": 91,
+      "bank_name": "THE NAINITAL BANK LIMITED",
+      "bank_code": "NTBL",
+      "ifsc": null
+    },
+    {
+      "id": 92,
+      "bank_name": "THE RATNAKAR BANK LTD (RBL)",
+      "bank_code": "RATN",
+      "ifsc": "RATN0000182"
+    },
+    {
+      "id": 93,
+      "bank_name": "THE ROYAL BANK OF SCOTLAND",
+      "bank_code": "ABNA",
+      "ifsc": null
+    },
+    {
+      "id": 94,
+      "bank_name": "THE SARASWAT CO-OPERATIVE BANK LTD",
+      "bank_code": "SRCB",
+      "ifsc": null
+    },
+    {
+      "id": 95,
+      "bank_name": "THE SHAMRAO VITHAL CO-OPERATIVE BANK",
+      "bank_code": "SVCB",
+      "ifsc": null
+    },
+    {
+      "id": 96,
+      "bank_name": "THE SURAT PEOPLES CO-OPERATIVE BANK",
+      "bank_code": "SPCB",
+      "ifsc": null
+    },
+    {
+      "id": 97,
+      "bank_name": "THE THANE JANATA SAHAKARI BANK LTD",
+      "bank_code": "TJSB",
+      "ifsc": null
+    },
+    {
+      "id": 98,
+      "bank_name": "THE TAMILNADU STATE APEX COOPERATVE BANK",
+      "bank_code": "TNSC",
+      "ifsc": null
+    },
+    {
+      "id": 99,
+      "bank_name": "WEST BENGAL STATE CO-OPERATIVE BANK",
+      "bank_code": "WBSC",
+      "ifsc": null
+    },
+    {
+      "id": 100,
+      "bank_name": "VIJAYA BANK (VB)",
+      "bank_code": "VIJB",
+      "ifsc": null
+    },
+    {
+      "id": 101,
+      "bank_name": "STATE BANK OF INDIA (SBI)",
+      "bank_code": "SBIN",
+      "ifsc": "SBIN0008079"
+    },
+    {
+      "id": 102,
+      "bank_name": "THE A.P. MAHESH CO-OP URBAN BANK LTD.",
+      "bank_code": "APMC",
+      "ifsc": null
+    },
+    {
+      "id": 103,
+      "bank_name": "THE KARAD URBAN CO-OP BANK LTD",
+      "bank_code": "KUCB",
+      "ifsc": null
+    },
+    {
+      "id": 104,
+      "bank_name": "THE KARNATAKA STATE CO-OPERATIVE APEX BANK LTD BANGALORE",
+      "bank_code": "KSCB",
+      "ifsc": null
+    },
+    {
+      "id": 105,
+      "bank_name": "THE NASIK MERCHANTS CO-OP BANK LTD. NASHIK",
+      "bank_code": "NMCB",
+      "ifsc": null
+    },
+    {
+      "id": 106,
+      "bank_name": "UBS AG",
+      "bank_code": "UBSW",
+      "ifsc": null
+    },
+    {
+      "id": 107,
+      "bank_name": "UNITED BANK OF INDIA (UBI)",
+      "bank_code": "UTBI",
+      "ifsc": "UTBI0SCN560 "
+    },
+    {
+      "id": 108,
+      "bank_name": "The Kangra Co-Operative Bank Ltd",
+      "bank_code": "KANG",
+      "ifsc": null
+    },
+    {
+      "id": 109,
+      "bank_name": "KANGRA CENTRAL CO-OP BANK LIMITED (THE)",
+      "bank_code": "KACE",
+      "ifsc": null
+    },
+    {
+      "id": 110,
+      "bank_name": "PRATHAMA BANK",
+      "bank_code": "PRTH",
+      "ifsc": null
+    },
+    {
+      "id": 111,
+      "bank_name": "Chaitanya Godavari Grameena Bank",
+      "bank_code": "ACGG",
+      "ifsc": null
+    },
+    {
+      "id": 112,
+      "bank_name": "Allahabad UP Gramin Bank",
+      "bank_code": "ALLG",
+      "ifsc": null
+    },
+    {
+      "id": 113,
+      "bank_name": "Rushikulya Gramin Bank",
+      "bank_code": "ANDG",
+      "ifsc": null
+    },
+    {
+      "id": 114,
+      "bank_name": "Sharda Gramin Bank",
+      "bank_code": "ASGB",
+      "ifsc": null
+    },
+    {
+      "id": 115,
+      "bank_name": "Nainital Almora Kshetriya Gramin Bank",
+      "bank_code": "BARG",
+      "ifsc": null
+    },
+    {
+      "id": 116,
+      "bank_name": "Baroda Rajasthan Kshetriya Gramin Bank",
+      "bank_code": "BARR",
+      "ifsc": null
+    },
+    {
+      "id": 117,
+      "bank_name": "Baroda Uttar Pradesh Gramin Bank",
+      "bank_code": "BARU",
+      "ifsc": null
+    },
+    {
+      "id": 118,
+      "bank_name": "Baroda Gujarat Gramin Bank",
+      "bank_code": "BGGB",
+      "ifsc": null
+    },
+    {
+      "id": 119,
+      "bank_name": "Jhabua Dhar Kshetriya Gramin Bank",
+      "bank_code": "BJDG",
+      "ifsc": null
+    },
+    {
+      "id": 120,
+      "bank_name": "Dena Gujarat Gramin Bank",
+      "bank_code": "BKDD",
+      "ifsc": null
+    },
+    {
+      "id": 121,
+      "bank_name": "Durg Rajnandgaon Gramin Bank",
+      "bank_code": "BKDR",
+      "ifsc": null
+    },
+    {
+      "id": 122,
+      "bank_name": "Baitarani Gramin Bank",
+      "bank_code": "BKIB",
+      "ifsc": null
+    },
+    {
+      "id": 123,
+      "bank_name": "Aryavart Gramin Bank",
+      "bank_code": "BKIG",
+      "ifsc": null
+    },
+    {
+      "id": 124,
+      "bank_name": "Wainganga Krishna Gramin Bank",
+      "bank_code": "BWKG",
+      "ifsc": null
+    },
+    {
+      "id": 125,
+      "bank_name": "Uttar Bihar Gramin Bank",
+      "bank_code": "CBBB",
+      "ifsc": null
+    },
+    {
+      "id": 126,
+      "bank_name": "Ballia Etawah Gramin Bank",
+      "bank_code": "CBIG",
+      "ifsc": null
+    },
+    {
+      "id": 127,
+      "bank_name": "Hadoti Kshetriya Gramin Bank",
+      "bank_code": "CBIH",
+      "ifsc": null
+    },
+    {
+      "id": 128,
+      "bank_name": "Surguja Kshetriya Gramin Bank",
+      "bank_code": "CKGB",
+      "ifsc": null
+    },
+    {
+      "id": 129,
+      "bank_name": "South Malabar Gramin Bank",
+      "bank_code": "CMGB",
+      "ifsc": null
+    },
+    {
+      "id": 130,
+      "bank_name": "Chickmangalur Kodagu Gramin Bank",
+      "bank_code": "CORG",
+      "ifsc": null
+    },
+    {
+      "id": 131,
+      "bank_name": "Pragathi Gramin Bank",
+      "bank_code": "CPGB",
+      "ifsc": null
+    },
+    {
+      "id": 132,
+      "bank_name": "Shreyas Gramin Bank",
+      "bank_code": "CSGB",
+      "ifsc": null
+    },
+    {
+      "id": 133,
+      "bank_name": "Satpura Narmada Kshetriya Gramin Bank",
+      "bank_code": "CSUG",
+      "ifsc": null
+    },
+    {
+      "id": 134,
+      "bank_name": "Uttar Banga Kshetriya Gramin Bank",
+      "bank_code": "CUKG",
+      "ifsc": null
+    },
+    {
+      "id": 135,
+      "bank_name": "Vidharbha Kshetriya Gramin Bank",
+      "bank_code": "CVAG",
+      "ifsc": null
+    },
+    {
+      "id": 136,
+      "bank_name": "Madhya Bharat Gramin Bank",
+      "bank_code": "FBIG",
+      "ifsc": null
+    },
+    {
+      "id": 137,
+      "bank_name": "Gurgaon Gramin Bank",
+      "bank_code": "GGBG",
+      "ifsc": null
+    },
+    {
+      "id": 138,
+      "bank_name": "Malwa Gramin Bank",
+      "bank_code": "HDFG",
+      "ifsc": null
+    },
+    {
+      "id": 139,
+      "bank_name": "Mewar Anchalik Gramin Bank",
+      "bank_code": "ICIG",
+      "ifsc": null
+    },
+    {
+      "id": 140,
+      "bank_name": "Pallavan Grama Bank",
+      "bank_code": "IDIG",
+      "ifsc": null
+    },
+    {
+      "id": 141,
+      "bank_name": "Neelachal Gramya Bank",
+      "bank_code": "INGB",
+      "ifsc": null
+    },
+    {
+      "id": 142,
+      "bank_name": "Pandyan Gramin Bank",
+      "bank_code": "IOBG",
+      "ifsc": null
+    },
+    {
+      "id": 143,
+      "bank_name": "Puduvai Bharathiar Grama Bank",
+      "bank_code": "IPBG",
+      "ifsc": null
+    },
+    {
+      "id": 144,
+      "bank_name": "J & K Grameen Bank",
+      "bank_code": "JAKG",
+      "ifsc": null
+    },
+    {
+      "id": 145,
+      "bank_name": "Maharashtra Gramin Bank",
+      "bank_code": "MAHG",
+      "ifsc": null
+    },
+    {
+      "id": 146,
+      "bank_name": "Rajasthan Gramin Bank",
+      "bank_code": "PRGB",
+      "ifsc": null
+    },
+    {
+      "id": 147,
+      "bank_name": "Sarva UP Gramin Bank",
+      "bank_code": "PSGB",
+      "ifsc": null
+    },
+    {
+      "id": 148,
+      "bank_name": "Sutlej Gramin Bank",
+      "bank_code": "PSIG",
+      "ifsc": null
+    },
+    {
+      "id": 149,
+      "bank_name": "Himachal Gramin Bank",
+      "bank_code": "PUHG",
+      "ifsc": null
+    },
+    {
+      "id": 150,
+      "bank_name": "Madhya Bihar Gramin Bank",
+      "bank_code": "PUNG",
+      "ifsc": null
+    },
+    {
+      "id": 151,
+      "bank_name": "Haryana Gramin Bank",
+      "bank_code": "PUNH",
+      "ifsc": null
+    },
+    {
+      "id": 152,
+      "bank_name": "Andhra Pradesh Grameena Vikas Bank",
+      "bank_code": "SAPG",
+      "ifsc": null
+    },
+    {
+      "id": 153,
+      "bank_name": "Arunachal Pradesh Rural Bank",
+      "bank_code": "SBAP",
+      "ifsc": null
+    },
+    {
+      "id": 154,
+      "bank_name": "MG Baroda Gramin Bank",
+      "bank_code": "SBBG",
+      "ifsc": null
+    },
+    {
+      "id": 155,
+      "bank_name": "Deccan Grameena Bank",
+      "bank_code": "SBHG",
+      "ifsc": null
+    },
+    {
+      "id": 156,
+      "bank_name": "Chhattisgarh Gramin Bank",
+      "bank_code": "SBIC",
+      "ifsc": null
+    },
+    {
+      "id": 157,
+      "bank_name": "Ellaqui Dehati Bank",
+      "bank_code": "SBIE",
+      "ifsc": null
+    },
+    {
+      "id": 158,
+      "bank_name": "Narmada Malwa Gramin Bank",
+      "bank_code": "SBIG",
+      "ifsc": null
+    },
+    {
+      "id": 159,
+      "bank_name": "Jharkhand Gramin Bank",
+      "bank_code": "SBIJ",
+      "ifsc": null
+    },
+    {
+      "id": 160,
+      "bank_name": "Cauvery Kalpatharu Grameena Bank",
+      "bank_code": "SBMG",
+      "ifsc": null
+    },
+    {
+      "id": 161,
+      "bank_name": "Vidisha Bhopal Kshetriya Gramin Bank",
+      "bank_code": "SBOG",
+      "ifsc": null
+    },
+    {
+      "id": 162,
+      "bank_name": "Krishna Gramin Bank",
+      "bank_code": "SKRG",
+      "ifsc": null
+    },
+    {
+      "id": 163,
+      "bank_name": "Langpi Dehangi Rural Bank",
+      "bank_code": "SLDR",
+      "ifsc": null
+    },
+    {
+      "id": 164,
+      "bank_name": "Meghalaya Rural Bank",
+      "bank_code": "SMEG",
+      "ifsc": null
+    },
+    {
+      "id": 165,
+      "bank_name": "Parvatiya Gramin Bank",
+      "bank_code": "SPGB",
+      "ifsc": null
+    },
+    {
+      "id": 166,
+      "bank_name": "Purvanchal Gramin Bank",
+      "bank_code": "SRGB",
+      "ifsc": null
+    },
+    {
+      "id": 167,
+      "bank_name": "Saurashtra Gramin Bank",
+      "bank_code": "SSGB",
+      "ifsc": null
+    },
+    {
+      "id": 168,
+      "bank_name": "Samastipur Kshetriya GB",
+      "bank_code": "SSKG",
+      "ifsc": null
+    },
+    {
+      "id": 169,
+      "bank_name": "Uttaranchal Gramin Bank",
+      "bank_code": "SUTG",
+      "ifsc": null
+    },
+    {
+      "id": 170,
+      "bank_name": "Utkal Gramya Bank",
+      "bank_code": "SUUG",
+      "ifsc": null
+    },
+    {
+      "id": 171,
+      "bank_name": "Karnataka Vikas Grameena Bank",
+      "bank_code": "SYKG",
+      "ifsc": null
+    },
+    {
+      "id": 172,
+      "bank_name": "Andhra Pragathi Grameena Bank",
+      "bank_code": "SYNG",
+      "ifsc": null
+    },
+    {
+      "id": 173,
+      "bank_name": "North Malabar Gramin Bank",
+      "bank_code": "SYNM",
+      "ifsc": null
+    },
+    {
+      "id": 174,
+      "bank_name": "Assam Gramin Vikash Bank",
+      "bank_code": "UASG",
+      "ifsc": null
+    },
+    {
+      "id": 175,
+      "bank_name": "Kashi Gomati Samyut Gramin Bank",
+      "bank_code": "UBKG",
+      "ifsc": null
+    },
+    {
+      "id": 176,
+      "bank_name": "Mahakaushal Kshetriya Gramin Bank",
+      "bank_code": "UCBG",
+      "ifsc": null
+    },
+    {
+      "id": 177,
+      "bank_name": "Bihar Kshetriya Gramin Bank",
+      "bank_code": "UCBK",
+      "ifsc": null
+    },
+    {
+      "id": 178,
+      "bank_name": "Kalinga Gramya Bank",
+      "bank_code": "UCKG",
+      "ifsc": null
+    },
+    {
+      "id": 179,
+      "bank_name": "Jaipur Thar Gramin Bank",
+      "bank_code": "UJTG",
+      "ifsc": null
+    },
+    {
+      "id": 180,
+      "bank_name": "Paschim Banga Gramin Bank",
+      "bank_code": "UPBG",
+      "ifsc": null
+    },
+    {
+      "id": 181,
+      "bank_name": "Rewa-Sidhi Gramin Bank",
+      "bank_code": "URSG",
+      "ifsc": null
+    },
+    {
+      "id": 182,
+      "bank_name": "Bangiya Gramin Bank",
+      "bank_code": "UTBB",
+      "ifsc": null
+    },
+    {
+      "id": 183,
+      "bank_name": "Manipur Rural ank",
+      "bank_code": "UTBG",
+      "ifsc": null
+    },
+    {
+      "id": 184,
+      "bank_name": "Tripura Gramin Bank",
+      "bank_code": "UTGB",
+      "ifsc": null
+    },
+    {
+      "id": 185,
+      "bank_name": "Visveshwaraya Gramin Bank",
+      "bank_code": "VIJG",
+      "ifsc": null
+    },
+    {
+      "id": 186,
+      "bank_name": "SWARNA BHARAT TRUST CYBER GRAMEEN",
+      "bank_code": "SBCG",
+      "ifsc": null
+    },
+    {
+      "id": 187,
+      "bank_name": "NEFT MALWA GRAMIN BANK",
+      "bank_code": "NMGB",
+      "ifsc": null
+    },
+    {
+      "id": 188,
+      "bank_name": "CREDIT CARD - ABN Amro Bank",
+      "bank_code": "ABCC",
+      "ifsc": null
+    },
+    {
+      "id": 189,
+      "bank_name": "CREDIT CARD - Barclays",
+      "bank_code": "BACC",
+      "ifsc": null
+    },
+    {
+      "id": 190,
+      "bank_name": "CREDIT CARD - Citibank",
+      "bank_code": "CICC",
+      "ifsc": null
+    },
+    {
+      "id": 191,
+      "bank_name": "CREDIT CARD - HDFC Bank",
+      "bank_code": "HDCC",
+      "ifsc": null
+    },
+    {
+      "id": 192,
+      "bank_name": "CREDIT CARD - HSBC",
+      "bank_code": "HSCC",
+      "ifsc": null
+    },
+    {
+      "id": 193,
+      "bank_name": "CREDIT CARD - ICICI Bank",
+      "bank_code": "ICCC",
+      "ifsc": null
+    },
+    {
+      "id": 194,
+      "bank_name": "CREDIT CARD - Kotak Mahindra Bank",
+      "bank_code": "KKCC",
+      "ifsc": null
+    },
+    {
+      "id": 195,
+      "bank_name": "CREDIT CARD - SBI",
+      "bank_code": "SBCC",
+      "ifsc": null
+    },
+    {
+      "id": 196,
+      "bank_name": "CREDIT CARD - Standard Chartered",
+      "bank_code": "SCCC",
+      "ifsc": null
+    },
+    {
+      "id": 197,
+      "bank_name": "CREDIT CARD - UTI Axis Bank",
+      "bank_code": "UTCC",
+      "ifsc": null
+    },
+    {
+      "id": 198,
+      "bank_name": "CREDIT CARD - Vijaya Bank",
+      "bank_code": "VICC",
+      "ifsc": null
+    },
+    {
+      "id": 199,
+      "bank_name": "CREDIT CARD - AMERICAN EXPRESS",
+      "bank_code": "AMEX",
+      "ifsc": null
+    },
+    {
+      "id": 200,
+      "bank_name": "Janaseva Sahakari Bank Ltd.",
+      "bank_code": "JANA",
+      "ifsc": null
+    },
+    {
+      "id": 201,
+      "bank_name": "Kallapana Ichalkaranji Awade Janaseva Sahakari Bank",
+      "bank_code": "KAIJ",
+      "ifsc": null
+    },
+    {
+      "id": 202,
+      "bank_name": "Pandharpur Merchant Co-operative Bank",
+      "bank_code": "ICIP",
+      "ifsc": null
+    },
+    {
+      "id": 203,
+      "bank_name": "Gayatri Bank",
+      "bank_code": "HDGB",
+      "ifsc": null
+    },
+    {
+      "id": 204,
+      "bank_name": "Pochampally Co-op Urban Bank Ltd.",
+      "bank_code": "HDFP",
+      "ifsc": null
+    },
+    {
+      "id": 205,
+      "bank_name": "Dr. Annasaheb Chougule Urban Co-op Bank Ltd.",
+      "bank_code": "HDFA",
+      "ifsc": null
+    },
+    {
+      "id": 206,
+      "bank_name": "Surat District Co-op Bank",
+      "bank_code": "SDCB",
+      "ifsc": null
+    },
+    {
+      "id": 207,
+      "bank_name": "Suco Souharda Sahakari Bank Ltd",
+      "bank_code": "HDFS",
+      "ifsc": null
+    },
+    {
+      "id": 208,
+      "bank_name": "Pune Peoples Co-Operative Bank",
+      "bank_code": "IBKP",
+      "ifsc": null
+    },
+    {
+      "id": 209,
+      "bank_name": "Shri Arihant Co-operative Bank Ltd.",
+      "bank_code": "ICSA",
+      "ifsc": null
+    },
+    {
+      "id": 210,
+      "bank_name": "The National Co-operative Bank Ltd.",
+      "bank_code": "KKBN",
+      "ifsc": null
+    },
+    {
+      "id": 211,
+      "bank_name": "Parshwanath Co-operative Bank Ltd.",
+      "bank_code": "HDPA",
+      "ifsc": null
+    },
+    {
+      "id": 212,
+      "bank_name": "APNA Sahakari Bank Ltd",
+      "bank_code": "ASBL",
+      "ifsc": null
+    },
+    {
+      "id": 213,
+      "bank_name": "Jalore Nagrik Sahakari Bank Ltd.",
+      "bank_code": "HDJC",
+      "ifsc": null
+    },
+    {
+      "id": 214,
+      "bank_name": "Varachha Co-op Bank Ltd.",
+      "bank_code": "VARA",
+      "ifsc": null
+    },
+    {
+      "id": 215,
+      "bank_name": "Janata Co-operative Bank Ltd., Malegaon",
+      "bank_code": "HDFJ",
+      "ifsc": null
+    },
+    {
+      "id": 216,
+      "bank_name": "Shri Basaveshwar Sahakari Bank Niyamit, Bagalkot",
+      "bank_code": "ICIS",
+      "ifsc": null
+    },
+    {
+      "id": 217,
+      "bank_name": "The Shirpur Peoples\u2019 Co-op Bank Ltd",
+      "bank_code": "KKBS",
+      "ifsc": null
+    },
+    {
+      "id": 218,
+      "bank_name": "Bhartiya Mahila bank",
+      "bank_code": "BMBL",
+      "ifsc": null
+    },
+    {
+      "id": 219,
+      "bank_name": "Kerala Gramin Bank",
+      "bank_code": "KLGB",
+      "ifsc": null
+    },
+    {
+      "id": 220,
+      "bank_name": "Pragathi Krishna Gramin Bank",
+      "bank_code": "PKGB",
+      "ifsc": null
+    },
+    {
+      "id": 221,
+      "bank_name": "Yadagiri Lakshmi Narasimha Swamy Co Op Urban Bank Ltd",
+      "bank_code": "YESP",
+      "ifsc": null
+    },
+    {
+      "id": 222,
+      "bank_name": "Hutatma Sahakari Bank Ltd.",
+      "bank_code": "ICIH",
+      "ifsc": null
+    },
+    {
+      "id": 223,
+      "bank_name": "Himachal Pradesh Co-op Bank",
+      "bank_code": "YESH",
+      "ifsc": null
+    },
+    {
+      "id": 224,
+      "bank_name": "The Adarsh Urban Co-op. Bank Ltd., Hyderabad",
+      "bank_code": "ICIA",
+      "ifsc": null
+    },
+    {
+      "id": 225,
+      "bank_name": "The Mayani Urban Co-operative Bank Ltd",
+      "bank_code": "ICIM",
+      "ifsc": null
+    },
+    {
+      "id": 226,
+      "bank_name": "The Pandharpur Urban Co-op Bank Ltd",
+      "bank_code": "ICPU",
+      "ifsc": null
+    },
+    {
+      "id": 227,
+      "bank_name": "VANANCHAL GRAMIN BANK",
+      "bank_code": "SVAG",
+      "ifsc": null
+    },
+    {
+      "id": 228,
+      "bank_name": "PUNJAB GRAMIN BANK",
+      "bank_code": "PPGB",
+      "ifsc": null
+    },
+    {
+      "id": 229,
+      "bank_name": "Shree Veershaiv Co-op Bank Ltd",
+      "bank_code": "CVCB",
+      "ifsc": null
+    },
+    {
+      "id": 230,
+      "bank_name": "Thrissur District Central Co-op Bank Ltd",
+      "bank_code": "TDCB",
+      "ifsc": null
+    },
+    {
+      "id": 231,
+      "bank_name": "Vishweshwar Co-op. Bank Ltd.",
+      "bank_code": "VSBL",
+      "ifsc": null
+    },
+    {
+      "id": 232,
+      "bank_name": "Raipur Urban Mercantile Co-operative Bank Ltd.",
+      "bank_code": "HDRU",
+      "ifsc": null
+    },
+    {
+      "id": 233,
+      "bank_name": "Zila Sahkari bank",
+      "bank_code": "ICZS",
+      "ifsc": null
+    },
+    {
+      "id": 234,
+      "bank_name": "TITWALA",
+      "bank_code": "SBIT",
+      "ifsc": null
+    },
+    {
+      "id": 235,
+      "bank_name": "DOMBIVLI EAST",
+      "bank_code": "SBDO",
+      "ifsc": null
+    },
+    {
+      "id": 236,
+      "bank_name": "FARIDABAD",
+      "bank_code": "SBFA",
+      "ifsc": null
+    },
+    {
+      "id": 237,
+      "bank_name": "Mgcb Main",
+      "bank_code": "WBMG",
+      "ifsc": null
+    },
+    {
+      "id": 238,
+      "bank_name": "SINDHUDURG DIST CENT COOP BANK LTD",
+      "bank_code": "HDSI",
+      "ifsc": null
+    },
+    {
+      "id": 239,
+      "bank_name": "HAMIRPUR DISTRICT CO OPERATIVE BANK LTD MAHOBA",
+      "bank_code": "ICMA",
+      "ifsc": null
+    },
+    {
+      "id": 240,
+      "bank_name": "SHIVALIK MERCANTILE CO-OP. BANK LTD",
+      "bank_code": "IBSM",
+      "ifsc": null
+    },
+    {
+      "id": 241,
+      "bank_name": "The Hasti Co-op Bank Ltd.",
+      "bank_code": "HCBL",
+      "ifsc": null
+    },
+    {
+      "id": 242,
+      "bank_name": "Rajgurunagar Sahakari Bank Ltd.",
+      "bank_code": "RSBL",
+      "ifsc": null
+    },
+    {
+      "id": 243,
+      "bank_name": "Bandhan Bank",
+      "bank_code": "BDBL",
+      "ifsc": null
+    },
+    {
+      "id": 244,
+      "bank_name": "Dapoli Urban Co-Op Bank, Dapoli",
+      "bank_code": "IBDU",
+      "ifsc": null
+    },
+    {
+      "id": 245,
+      "bank_name": "The Gujarat State Co-op Bank Ltd.",
+      "bank_code": "GSCB",
+      "ifsc": null
+    },
+    {
+      "id": 246,
+      "bank_name": "The Municipal Co-operative Bank Ltd.",
+      "bank_code": "MUBL",
+      "ifsc": null
+    },
+    {
+      "id": 247,
+      "bank_name": "Rajapur Urban Co-op Bank Ltd.",
+      "bank_code": "ICRU",
+      "ifsc": null
+    },
+    {
+      "id": 248,
+      "bank_name": "Ahmedabad District Central Co-op Bank Ltd.",
+      "bank_code": "GSAD",
+      "ifsc": null
+    },
+    {
+      "id": 249,
+      "bank_name": "IDFC Bank",
+      "bank_code": "IDFC",
+      "ifsc": "IDFB0080391"
+    },
+    {
+      "id": 250,
+      "bank_name": "Rajasthan Marudhara Gramin Bank",
+      "bank_code": "SBRM",
+      "ifsc": null
+    },
+    {
+      "id": 251,
+      "bank_name": "Suvarnayug Sahakari Bank Ltd.",
+      "bank_code": "SUSB",
+      "ifsc": null
+    },
+    {
+      "id": 252,
+      "bank_name": "The Sutex Co-operative Bank Ltd.",
+      "bank_code": "SUCO",
+      "ifsc": null
+    }
+  ]
+}

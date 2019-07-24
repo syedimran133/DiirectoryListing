@@ -1,0 +1,5 @@
+{
+  "3": "Session Not found\/Session Expired",
+  "2": "Session Invalid (client details mismatch - such as clients ip address)",
+  "1": "Session Required"
+}

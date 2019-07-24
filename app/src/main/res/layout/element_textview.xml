@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_7dp"
+        android:gravity="center_vertical">
+
+        <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+            android:id="@+id/tvTitel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_background"
+            android:textColor="#009D74"
+            android:gravity="center"
+            android:text="" />
+    </LinearLayout>
+</layout>

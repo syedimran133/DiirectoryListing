@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/main_top"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#ffffff"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_2dp">
+
+                <ImageView
+                    android:id="@+id/btn_img_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="@dimen/_7dp"
+                    android:src="@drawable/menu" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="?attr/actionBarSize"
+                    android:layout_marginRight="?attr/actionBarSize"
+                    android:orientation="vertical">
+
+                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                        android:id="@+id/txt_view_titlet"
+                        style="@android:style/TextAppearance.Large"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="PQR Category" />
+
+                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                        android:id="@+id/txt_view_subtitle"
+                        style="@android:style/TextAppearance.Small"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:visibility="gone"
+                        android:layout_toRightOf="@+id/btn_img_menu"
+                        android:text="ABC" />
+
+                </LinearLayout>
+<!--
+                <ImageView
+                    android:id="@+id/notification_icons"
+                    android:layout_width="35dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="87dp"
+                    android:layout_marginRight="77dp"
+                    android:visibility="gone"
+                    android:src="@drawable/notification" />-->
+
+                <ImageView
+                    android:id="@+id/map_icons"
+                    android:layout_width="44dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/mapicon" />
+            </RelativeLayout>
+
+            <!--<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1.5dp"
+                android:background="#2d9bbc" />-->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v4.widget.DrawerLayout
+                    android:id="@+id/drawer_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    tools:openDrawer="start">
+
+                    <FrameLayout
+                        android:id="@+id/frame_parent"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="start"
+                        android:layout_marginRight="56dp"
+                        android:background="#eff2f9">
+
+                        <LinearLayout
+                            android:id="@+id/topdrawable"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:id="@+id/linear_user"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="#eff2f9"
+                                android:orientation="horizontal"
+                                android:padding="@dimen/_5dp">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center_horizontal"
+                                    android:background="#eff2f9"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1.25"
+                                        android:gravity="center"
+                                        android:background="#eff2f9"
+                                        android:padding="@dimen/_15dp">
+
+                                        <ImageView
+                                            android:layout_width="@dimen/_30dp"
+                                            android:layout_height="@dimen/_30dp"
+                                            android:layout_gravity="center" />
+                                    </LinearLayout>
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:background="#eff2f9"
+                                    android:orientation="vertical">
+
+                                    <com.zerosymbol.directorylisting.custom.CustomTextViewBold
+                                        android:id="@+id/txt_view_user"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="#181818"
+                                        android:layout_alignParentRight="true"
+                                        android:layout_centerVertical="true"
+                                        android:layout_marginLeft="@dimen/_15dp"
+                                        android:text="Rahul Gupta"/>
+
+
+                                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginLeft="@dimen/_15dp"
+                                        android:textColor="#181818"
+                                        android:gravity="center_vertical"
+                                        android:text="ID :  99876XXXXXXX07 " />
+
+                                    <com.zerosymbol.directorylisting.custom.CustomTextView
+                                        style="@style/Base.TextAppearance.AppCompat.Small"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginLeft="@dimen/_15dp"
+                                        android:gravity="center_vertical"
+                                        android:text="Edit Profile"
+                                        android:textColor="#b7bfcf" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+
+                            <LinearLayout
+                                android:id="@+id/linear_user_prelogin"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="#eff2f9"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="120dp"
+                                    android:layout_height="60dp"
+                                    android:gravity="center"
+                                    android:src="@drawable/ic_launcher_background" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0.75dp"
+                                    android:layout_above="@+id/bottom_menu"
+                                    android:background="#2d9bbc" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <ListView
+                            android:id="@+id/lv_drawer"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/btn_txt_logout"
+                            android:layout_below="@+id/topdrawable"
+                            android:layout_marginLeft="@dimen/_7dp"
+                            android:choiceMode="singleChoice"
+                            android:divider="@null" />
+
+                        <com.zerosymbol.directorylisting.custom.CustomTextView
+                            android:id="@+id/btn_txt_logout"
+                            style="@android:style/TextAppearance.Small"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginLeft="@dimen/_15dp"
+                            android:layout_marginTop="@dimen/_10dp"
+                            android:padding="@dimen/_5dp"
+                            android:text="Logout"
+                            android:textColor="@color/colorFont"
+                            android:visibility="gone" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="?attr/actionBarSize"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentBottom="true"
+                            android:orientation="horizontal" />
+
+                    </RelativeLayout>
+
+                </android.support.v4.widget.DrawerLayout>
+
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_progressBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/transparentGray"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/drawable_progress"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="@dimen/_10dp">
+
+                <com.wang.avi.AVLoadingIndicatorView
+                    android:id="@+id/avi"
+                    style="@style/AVLoadingIndicatorView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="visible"
+                    app:indicatorColor="@color/colorPrimary"
+                    app:indicatorName="BallBeatIndicator" />
+
+                <com.zerosymbol.directorylisting.custom.CustomTextViewTitle
+                    android:id="@+id/txt_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="Loading..."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="@dimen/txt_size_12sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</layout>

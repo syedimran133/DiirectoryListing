@@ -1,0 +1,1296 @@
+{
+    "banks": [
+        {
+            "BANK_NAME": "STATE BANK OF INDIA",
+            "IFSC": "SBIN0008079"
+        },
+        {
+            "BANK_NAME": "PUNJAB NATIONAL BANK",
+            "IFSC": "PUNB0012000"
+        },
+        {
+            "BANK_NAME": "HDFC BANK",
+            "IFSC": "HDFC0000001"
+        },
+        {
+            "BANK_NAME": "CENTRAL BANK OF INDIA",
+            "IFSC": "CBIN0011102"
+        },
+        {
+            "BANK_NAME": "AXIS BANK",
+            "IFSC": "UTIB0000073"
+        },
+        {
+            "BANK_NAME": "BANK OF INDIA",
+            "IFSC": "BKID0007109"
+        },
+        {
+            "BANK_NAME": "UNION BANK OF INDIA",
+            "IFSC": "UBIN0564273"
+        },
+        {
+            "BANK_NAME": "ICICI BANK LTD",
+            "IFSC": "ICIC0000001"
+        },
+        {
+            "BANK_NAME": "BANK OF BARODA",
+            "IFSC": "BARB0KHARAD"
+        },
+        {
+            "BANK_NAME": "ALLAHABAD BANK",
+            "IFSC": "ALLA0210918"
+        },
+        {
+            "BANK_NAME": "CANARA BANK",
+            "IFSC": "CNRB0002886"
+        },
+        {
+            "BANK_NAME": "ORIENTAL BANK OF COMMERCE",
+            "IFSC": "ORBC0100931"
+        },
+        {
+            "BANK_NAME": "INDIAN BANK",
+            "IFSC": "IDIB000S152"
+        },
+        {
+            "BANK_NAME": "UCO BANK",
+            "IFSC": "UCBA0002922"
+        },
+        {
+            "BANK_NAME": "CORPORATION BANK",
+            "IFSC": "CORP0001796"
+        },
+        {
+            "BANK_NAME": "ANDHRA BANK",
+            "IFSC": "ANDB0001106"
+        },
+        {
+            "BANK_NAME": "SYNDICATE BANK",
+            "IFSC": "SYNB0009958"
+        },
+        {
+            "BANK_NAME": "IDBI BANK",
+            "IFSC": "IBKL0000001"
+        },
+        {
+            "BANK_NAME": "KOTAK MAHINDRA BANK LIMITED",
+            "IFSC": "KKBK0000181"
+        },
+        {
+            "BANK_NAME": "VIJAYA BANK",
+            "IFSC": "VIJB0009855"
+        },
+        {
+            "BANK_NAME": "UNITED BANK OF INDIA",
+            "IFSC": "UTBI0DEC632"
+        },
+        {
+            "BANK_NAME": "ABHYUDAYA CO-OP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "ABU DHABI COMMERCIAL BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "ACE COOPERATIVE BANK LTD",
+            "IFSC": "IBKL0100ACB"
+        },
+        {
+            "BANK_NAME": "Ahmedabad District Central Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Ahmednagar Mer Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Aircel Smart Money Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "AIRTEL PAYMENTS BANK LIMITED",
+            "IFSC": "AIRP0000001"
+        },
+        {
+            "BANK_NAME": "Akhand Anand Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Akola District Central Co-operative Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Akola Janata Commercial Co Operative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Allahabad UP Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Ambarnath Jai Hind Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Andhra Bank Credit Card",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Andhra Pradesh Grameena Vikas Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Andhra Pragathi Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "APNA Sahakari Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Arunachal Pradesh Rural Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Aryavart Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Assam Gramin Vikash Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Baitarani Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Ballia Etawah Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BANDHAN BANK LIMITED",
+            "IFSC": "BDBL0001000"
+        },
+        {
+            "BANK_NAME": "Bangiya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BANK OF AMERICA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BANK OF BAHRAIN AND KUWAIT",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Bank Of Baroda Credit Card",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BANK OF CEYLON",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Bank Of India Credit Card",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BANK OF MAHARASHTRA",
+            "IFSC": "MAHB0001340"
+        },
+        {
+            "BANK_NAME": "BANK OF TOKYO-MITSUBISHI UFJ LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BARCLAYS BANK",
+            "IFSC": "BARC0INBB01"
+        },
+        {
+            "BANK_NAME": "Baroda Gujarat Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Baroda Rajasthan Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Baroda Uttar Pradesh Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+            "IFSC": "BACB0000123"
+        },
+        {
+            "BANK_NAME": "BHARATIYA MAHILA BANK LIMITED",
+            "IFSC": "BMBL0000001"
+        },
+        {
+            "BANK_NAME": "Bihar Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "BNP PARIBAS",
+            "IFSC": "BNPA0009065"
+        },
+        {
+            "BANK_NAME": "Bombay Mercantile Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Canara Bank Credit Card",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CATHOLIC SYRIAN BANK LIMITED",
+            "IFSC": "CSBK0000297"
+        },
+        {
+            "BANK_NAME": "Cauvery Kalpatharu Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Chaitanya Godavari Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Chhattisgarh Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Chickmangalur Kodagu Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Chikhli Urban Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CHINATRUST COMMERCIAL BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CITI BANK",
+            "IFSC": "CITI0000004"
+        },
+        {
+            "BANK_NAME": "Citizen Co-Op Bank, Noida",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CITIZEN CREDIT CO-OP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CITY UNION BANK LIMITED",
+            "IFSC": "CIUB0000001"
+        },
+        {
+            "BANK_NAME": "CREDIT AGRICOLE CORP N INVSMNT BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - ABN Amro Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - AMERICAN EXPRESS",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - Barclays",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - Citibank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - HDFC Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - HSBC",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - ICICI Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - Kotak Mahindra Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - SBI",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - Standard Chartered",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - UTI Axis Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "CREDIT CARD - Vijaya Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Dapoli Urban Co-Op Bank, Dapoli",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DBS BANK LTD",
+            "IFSC": "DBSS0IN0820"
+        },
+        {
+            "BANK_NAME": "Deccan Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Delhi State Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DENA BANK",
+            "IFSC": "BKDN0721125"
+        },
+        {
+            "BANK_NAME": "Dena Gujarat Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+            "IFSC": "DEOB0000032"
+        },
+        {
+            "BANK_NAME": "DEUTSCHE BANK AG",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DEVELOPMENT CREDIT BANK LIMITED",
+            "IFSC": "DCBL0000076"
+        },
+        {
+            "BANK_NAME": "DHANALAKSHMI BANK",
+            "IFSC": "DLXB0000208"
+        },
+        {
+            "BANK_NAME": "DHANLAXMI BANK LTD",
+            "IFSC": "DLXB0000221"
+        },
+        {
+            "BANK_NAME": "DICGC",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DOMBIVLI EAST",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Dr. Annasaheb Chougule Urban Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Durg Rajnandgaon Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Ellaqui Dehati Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "EQUITAS SMALL FINANCE BANK LIMITED",
+            "IFSC": "ESFB0000002"
+        },
+        {
+            "BANK_NAME": "ESAF Small Finance Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "FARIDABAD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "FEDERAL BANK",
+            "IFSC": "FDRL0001845"
+        },
+        {
+            "BANK_NAME": "FIRSTRAND BANK LIMITED",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Gayatri Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Gurgaon Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Hadoti Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "HAMIRPUR DISTRICT CO OPERATIVE BANK LTD MAHOBA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Haryana Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Himachal Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Himachal Pradesh Co-op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "HSBC BANK",
+            "IFSC": "HSBC0110007"
+        },
+        {
+            "BANK_NAME": "HSBC BANK OMAN SAOG",
+            "IFSC": "OIBA0000001"
+        },
+        {
+            "BANK_NAME": "Hutatma Sahakari Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "IDFC BANK LIMITED",
+            "IFSC": "IDFB0010209"
+        },
+        {
+            "BANK_NAME": "India Post Payments Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "INDIAN OVERSEAS BANK",
+            "IFSC": "IOBA0001719"
+        },
+        {
+            "BANK_NAME": "INDUSIND BANK",
+            "IFSC": "INDB0VCB012"
+        },
+        {
+            "BANK_NAME": "INDUSIND BANK LIMITED",
+            "IFSC": "INDB0000588"
+        },
+        {
+            "BANK_NAME": "ING VYSYA BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Integral Urban Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Irinjalakuda Town Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "J & K Grameen Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jaipur Thar Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jalaun District Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jalgaon Peoples Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jalore Nagrik Sahakari Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jamia Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "JAMMU AND KASHMIR BANK LIMITED",
+            "IFSC": "JAKA0ZOUDAM"
+        },
+        {
+            "BANK_NAME": "JANAKALYAN SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Janaseva Sahakari Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Janata Co-operative Bank Ltd., Malegaon",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "JANATA SAHAKARI BANK LIMITED",
+            "IFSC": "JSBP0000098"
+        },
+        {
+            "BANK_NAME": "Jhabua Dhar Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Jharkhand Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "JPMORGAN CHASE BANK NA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Kalinga Gramya Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Kallapana Ichalkaranji Awade Janaseva Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "KANGRA CENTRAL CO-OP BANK LIMITED (THE)",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "KAPOLE CO OP BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "KARNATAKA BANK LIMITED",
+            "IFSC": "KARB0000545"
+        },
+        {
+            "BANK_NAME": "Karnataka Vikas Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "KARUR VYSYA BANK",
+            "IFSC": "KVBL0001101"
+        },
+        {
+            "BANK_NAME": "Kashi Gomati Samyut Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Kerala Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Krishna Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Kurmanchal Nagar Sahkari Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "LAKSHMI VILAS BANK LTD",
+            "IFSC": "LAVB0000504"
+        },
+        {
+            "BANK_NAME": "Langpi Dehangi Rural Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Madhya Bharat Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Madhya Bihar Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Madhyanchal Gramin Bank, Sagar",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Mahakaushal Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "MAHANAGAR CO-OP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Maharashtra Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "MAHARASHTRA STATE CO OPERATIVE BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Malad Sahkari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Malda District Central Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Malwa Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Manipur Rural ank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Manvi Pattana Souharda Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Maratha Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "MASHREQ BANK PSC",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Meghalaya Rural Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Mewar Anchalik Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "MG Baroda Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Mgcb Main",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "MIZUHO BANK LTD",
+            "IFSC": "MHCB0000532"
+        },
+        {
+            "BANK_NAME": "Mogaveera Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Moradabad Zila Sahkari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Mumbai District Central Co-Operative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Nagar Sahkari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Nainital Almora Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Narmada Malwa Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Neelachal Gramya Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "NEFT MALWA GRAMIN BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "NEW INDIA CO-OPERATIVE BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "NKGSB COOPERATIVE BANK LIMITED",
+            "IFSC": "NKGS0000113"
+        },
+        {
+            "BANK_NAME": "Noble Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "North Malabar Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "NUTAN NAGARIK SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Odisha Gramya Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pachora Peoples Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pallavan Grama Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pandharpur Merchant Co-operative Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pandyan Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Parshwanath Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "PARSIK JANATA SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Parvatiya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Paschim Banga Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pavana Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pithoragarh Jila Sahkari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pochampally Co-op Urban Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Poornawadi Nagrik Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pragathi Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pragathi Krishna Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "PRATHAMA BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Puduvai Bharathiar Grama Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pune Cantonment Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Pune Peoples Co-Operative Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "PUNJAB AND MAHARSHTRA COOPERATIVE BANK",
+            "IFSC": "PMCB00CARDS"
+        },
+        {
+            "BANK_NAME": "PUNJAB AND SIND BANK",
+            "IFSC": "PSIB0000878"
+        },
+        {
+            "BANK_NAME": "PUNJAB GRAMIN BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Punjab National Bank Credit Card",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Purvanchal Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Raipur Urban Mercantile Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rajapur Urban Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rajasthan Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rajasthan Marudhara Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rajgurunagar Sahakari Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "RAJKOT NAGARIK SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "RATNAKAR BANK LTD (RBL)",
+            "IFSC": "RATN0000182"
+        },
+        {
+            "BANK_NAME": "RESERVE BANK OF INDIA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rewa-Sidhi Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Rushikulya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sadhana Sahakari Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Samastipur Kshetriya GB",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sapthagiri Grameena Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SARASWAT COOPERATIVE BANK LIMITED",
+            "IFSC": "SRCB0CNS002"
+        },
+        {
+            "BANK_NAME": "Sardar Bhiladwala Pardi Peoples Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sarva UP Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Satpura Narmada Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Saurashtra Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Seva Vikas Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sharad Sahakari Bank Ltd. Manchar",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sharda Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SHINHAN BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shivajirao Bhosale Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SHIVALIK MERCANTILE CO-OP. BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shree Mahalaxmi Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shree Sharada Sahakari Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shree Veershaiv Co-op Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shreyas Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shri Arihant Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shri Basaveshwar Sahakari Bank Niyamit, Bagalkot",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Shri Chhatrapati Rajarshi Shahu Urban Co-Op Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SINDHUDURG DIST CENT COOP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Siwan Central Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SOCIETE GENERALE",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SOUTH INDIAN BANK",
+            "IFSC": "SIBL0008263"
+        },
+        {
+            "BANK_NAME": "South Malabar Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "STANDARD CHARTERED BANK (SCB)",
+            "IFSC": "SCBL0036024"
+        },
+        {
+            "BANK_NAME": "STATE BANK OF BIKANER AND JAIPUR",
+            "IFSC": "SBBJ0010811"
+        },
+        {
+            "BANK_NAME": "STATE BANK OF HYDERABAD",
+            "IFSC": "SBIN0021852"
+        },
+        {
+            "BANK_NAME": "STATE BANK OF MAURITIUS LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "STATE BANK OF MYSORE",
+            "IFSC": "SBIN0TREA00"
+        },
+        {
+            "BANK_NAME": "STATE BANK OF PATIALA",
+            "IFSC": "STBP0001021"
+        },
+        {
+            "BANK_NAME": "STATE BANK OF TRAVANCORE",
+            "IFSC": "SBTR0000925"
+        },
+        {
+            "BANK_NAME": "Suco Souharda Sahakari Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Surat District Co-op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Surguja Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Suryoday Small Finance Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Sutlej Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Suvarnayug Sahakari Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "SWARNA BHARAT TRUST CYBER GRAMEEN",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "TAMILNAD MERCANTILE BANK LIMITED",
+            "IFSC": "TMBL0009999"
+        },
+        {
+            "BANK_NAME": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+            "IFSC": "APMC0000908"
+        },
+        {
+            "BANK_NAME": "The Adarsh Urban Co-op. Bank Ltd., Hyderabad",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE AHMEDABAD MERCANTILE CO-OPERATIVE BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE BANK OF NOVA SCOTIA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE COSMOS CO OPERATIVE BANK LIMITED",
+            "IFSC": "COSB0000010"
+        },
+        {
+            "BANK_NAME": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+            "IFSC": "GBCB0000024"
+        },
+        {
+            "BANK_NAME": "The Gujarat State Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Hasti Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Hindusthan Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE KALUPUR COMMERCIAL CO OP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE KALYAN JANATA SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Kangra Co-Operative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE KARAD URBAN CO-OP BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE KARNATAKA STATE APEX COOP BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE KARNATAKA STATE CO-OPERATIVE APEX BANK LTD BANGALORE",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Mayani Urban Co-operative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE MEHSANA URBAN COOPERATIVE BANK",
+            "IFSC": "MSNU0000052"
+        },
+        {
+            "BANK_NAME": "The Municipal Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE NAINITAL BANK LIMITED",
+            "IFSC": "NTBL0VIK078"
+        },
+        {
+            "BANK_NAME": "THE NASIK MERCHANTS CO-OP BANK LTD. NASHIK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The National Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Pandharpur Urban Co-op Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE ROYAL BANK OF SCOTLAND",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Sabarkantha District Central Cooperative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Sahebrao Deshmukh Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Saurashtra Cooperative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+            "IFSC": "SVCB0000001"
+        },
+        {
+            "BANK_NAME": "The Shirpur Peoplesâ€™ Co-op Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE SURAT PEOPLES CO-OPERATIVE BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Sutex Co-operative Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE TAMILNADU STATE APEX COOPERATVE BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+            "IFSC": "TBSB0000026"
+        },
+        {
+            "BANK_NAME": "The Thane District Central Co-Operative Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "THE THANE JANATA SAHAKARI BANK LTD",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "The Zoroastrian Cooperative Bank Limited",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Thrissur District Central Co-op Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "TITWALA",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Tripura Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Triveni Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "UBS AG",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Udaipur Mahila Samrudhi Urban Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Udaipur urban Co-operative bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Ujjivan Small Finance Bank Limited",
+            "IFSC": "UJVN0000001"
+        },
+        {
+            "BANK_NAME": "Urban Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Utkal Gramya Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Uttar Banga Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Uttar Bihar Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Uttarakhand Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Uttaranchal Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vaidyanath Urban Co-Op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "VANANCHAL GRAMIN BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Varachha Co-op Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vasai Vikas Co-op Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vidharbha Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vidisha Bhopal Kshetriya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vikas Souharda Co-operative Bank Limited",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Vishweshwar Co-op. Bank Ltd.",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Visveshwaraya Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Wainganga Krishna Gramin Bank",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "WEST BENGAL STATE CO-OPERATIVE BANK",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "Yadagiri Lakshmi Narasimha Swamy Co Op Urban Bank Ltd",
+            "IFSC": ""
+        },
+        {
+            "BANK_NAME": "YES BANK",
+            "IFSC": "YESB0000002"
+        },
+        {
+            "BANK_NAME": "Zila Sahkari bank",
+            "IFSC": ""
+        }
+    ]
+}

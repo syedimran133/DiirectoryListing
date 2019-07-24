@@ -1,0 +1,19 @@
+{
+  "1003": "Wallet balance exceeded",
+  "1004": "Wallet cap exceeded",
+  "1001": "You don't have sufficient balance to complete this transaction",
+  "1002": "Transaction recovered",
+  "1007": "Database error",
+  "1008": "Bad request",
+  "1005": "Request expired",
+  "1006": "Your transaction is in progress, Please check the status in report after some time.",
+  "1016": "Change password - password has been used previously",
+  "1009": "Database constraint error",
+  "1013": "Your password has been expired",
+  "1012": "Password error retry exceeded",
+  "1015": "Change password - password is the same",
+  "1014": "You entered an invalid password",
+  "0": "Success",
+  "1011": "Password or agent not found or invalid",
+  "1010": "Record not found"
+}

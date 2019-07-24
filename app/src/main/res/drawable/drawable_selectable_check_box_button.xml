@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tick" android:state_checked="true" />
+    <item android:drawable="@drawable/untick_black" android:state_checked="false" />
+    <item android:drawable="@drawable/tick" android:state_hovered="true" />
+    <item android:drawable="@drawable/untick_black" android:state_hovered="false" />
+    <item android:drawable="@drawable/tick" android:state_selected="true" />
+    <item android:drawable="@drawable/untick_black" android:state_selected="false" />
+    <item android:drawable="@drawable/tick" android:state_pressed="true" />
+    <item android:drawable="@drawable/untick_black" android:state_pressed="false" />
+    <item android:drawable="@drawable/untick_black" />
+
+</selector>

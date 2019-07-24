@@ -1,0 +1,371 @@
+{
+	"banks": [{
+			"Bank Name": "Allahabad Bank",
+			"IIN": 608112
+		},
+		{
+			"Bank Name": "Allahabad UP Gramin Bank",
+			"IIN": 607091
+		},
+		{
+			"Bank Name": "Andhra Bank",
+			"IIN": 607076
+		},
+		{
+			"Bank Name": "Andhra Pradesh Gramin Vikash Bank",
+			"IIN": 607198
+		},
+		{
+			"Bank Name": "Andhra Pragathi Grameena Bank",
+			"IIN": 607121
+		},
+		{
+			"Bank Name": "Assam Gramin Vikash Bank",
+			"IIN": 607064
+		},
+		{
+			"Bank Name": "Axis Bank",
+			"IIN": 607153
+		},
+		{
+			"Bank Name": "Bangiya Gramin Vikash Bank",
+			"IIN": 607063
+		},
+		{
+			"Bank Name": "Bank Of Baroda",
+			"IIN": 606985
+		},
+		{
+			"Bank Name": "Bank of India",
+			"IIN": 508505
+		},
+		{
+			"Bank Name": "Bank of Maharashtra",
+			"IIN": 607387
+		},
+		{
+			"Bank Name": "Baroda Gujarat Gramin Bank",
+			"IIN": 606995
+		},
+		{
+			"Bank Name": "Baroda Rajasthan Kshetriya Gramin Bank",
+			"IIN": 607280
+		},
+		{
+			"Bank Name": "Baroda Uttar Pradesh Gramin Bank",
+			"IIN": 606993
+		},
+		{
+			"Bank Name": "Bihar Gramin Bank",
+			"IIN": 607377
+		},
+		{
+			"Bank Name": "Canara Bank",
+			"IIN": 607396
+		},
+		{
+			"Bank Name": "Central Bank of India",
+			"IIN": 607264
+		},
+		{
+			"Bank Name": "Central Madya Pradesh Gramin Bank",
+			"IIN": 607071
+		},
+		{
+			"Bank Name": "City Union Bank",
+			"IIN": 607324
+		},
+		{
+			"Bank Name": "Chaitanya Godavari Gramin Bank",
+			"IIN": 607080
+		},
+		{
+			"Bank Name": "Chhattisgharh Rajya Gramin Bank",
+			"IIN": 607214
+		},
+		{
+			"Bank Name": "Corporation Bank",
+			"IIN": 607184
+		},
+		{
+			"Bank Name": "Dena Bank",
+			"IIN": 508547
+		},
+		{
+			"Bank Name": "Dena Gujarat Gramin Bank",
+			"IIN": 607099
+		},
+		{
+			"Bank Name": "Equitas Small Finance Bank",
+			"IIN": 508998
+		},
+		{
+			"Bank Name": "Ellaquai Dehati Bank",
+			"IIN": 607218
+		},
+		{
+			"Bank Name": "Federal Bank",
+			"IIN": 607363
+		},
+		{
+			"Bank Name": "Fino Payments Bank",
+			"IIN": 608001
+		},
+		{
+			"Bank Name": "Gramin bank of Aryavart",
+			"IIN": 607024
+		},
+		{
+			"Bank Name": "HDFC Bank",
+			"IIN": 607152
+		},
+		{
+			"Bank Name": "Himachal Pradesh Gramin Bank",
+			"IIN": 607140
+		},
+		{
+			"Bank Name": "ICICI Bank",
+			"IIN": 508534
+		},
+		{
+			"Bank Name": "IDBI Bank",
+			"IIN": 607095
+		},
+		{
+			"Bank Name": "IDFC Bank",
+			"IIN": 608117
+		},
+		{
+			"Bank Name": "Indian bank",
+			"IIN": 607105
+		},
+		{
+			"Bank Name": "Indian Overseas Bank",
+			"IIN": 607126
+		},
+		{
+			"Bank Name": "IndusInd Bank",
+			"IIN": 607189
+		},
+		{
+			"Bank Name": "Jammu & Kashmir Bank",
+			"IIN": 607440
+		},
+		{
+			"Bank Name": "Jharkhand Gramin Bank",
+			"IIN": 607021
+		},
+		{
+			"Bank Name": "Karnataka Bank Ltd",
+			"IIN": 607270
+		},
+		{
+			"Bank Name": "Kashi Gomati Samyut Gramin Bank",
+			"IIN": 607365
+		},
+		{
+			"Bank Name": "Karnataka Vikas Grameena Bank",
+			"IIN": 607122
+		},
+		{
+			"Bank Name": "Karur Vysya Bank",
+			"IIN": 508662
+		},
+		{
+			"Bank Name": "Kaveri Grameena Bank",
+			"IIN": 607308
+		},
+		{
+			"Bank Name": "Kerala Gramin Bank",
+			"IIN": 607399
+		},
+		{
+			"Bank Name": "Kotak Mahindra Bank",
+			"IIN": 607420
+		},
+		{
+			"Bank Name": "Langpi Dehangi Rural Bank",
+			"IIN": 607202
+		},
+		{
+			"Bank Name": "Madhya Bihar Gramin Bank",
+			"IIN": 607136
+		},
+		{
+			"Bank Name": "Madhyanchal Gramin Bank",
+			"IIN": 607232
+		},
+		{
+			"Bank Name": "Maharashtra Gramin Bank",
+			"IIN": 607000
+		},
+		{
+			"Bank Name": "Malwa Gramin Bank",
+			"IIN": 607241
+		},
+		{
+			"Bank Name": "Manipur Rural Bank",
+			"IIN": 607062
+		},
+		{
+			"Bank Name": "Meghalaya Rural Bank",
+			"IIN": 607206
+		},
+		{
+			"Bank Name": "Narmada Jhabua Gramin Bank",
+			"IIN": 607022
+		},
+		{
+			"Bank Name": "Odisha Gramya Bank",
+			"IIN": 607060
+		},
+		{
+			"Bank Name": "Oriental Bank of Commerce",
+			"IIN": 607085
+		},
+		{
+			"Bank Name": "Pallavan Grama Bank",
+			"IIN": 607052
+		},
+		{
+			"Bank Name": "Pandyan GB",
+			"IIN": 607059
+		},
+		{
+			"Bank Name": "Paschim Banga Gramin Bank",
+			"IIN": 607079
+		},
+		{
+			"Bank Name": "Pragathi Krishna Gramin Bank",
+			"IIN": 607400
+		},
+		{
+			"Bank Name": "Prathama Bank",
+			"IIN": 607124
+		},
+		{
+			"Bank Name": "Puduvai Bharthiar Grama Bank",
+			"IIN": 607054
+		},
+		{
+			"Bank Name": "Punjab & Sind Bank",
+			"IIN": 607087
+		},
+		{
+			"Bank Name": "Punjab Gramin Bank",
+			"IIN": 607138
+		},
+		{
+			"Bank Name": "Punjab National Bank",
+			"IIN": 607027
+		},
+		{
+			"Bank Name": "Purvanchal Gramin Bank",
+			"IIN": 607212
+		},
+		{
+			"Bank Name": "Rajasthan Marudhara Gramin Bank",
+			"IIN": 607509
+		},
+		{
+			"Bank Name": "Saptagiri Grameena Bank",
+			"IIN": 607053
+		},
+		{
+			"Bank Name": "Sarva Haryana Gramin Bank",
+			"IIN": 607139
+		},
+		{
+			"Bank Name": "Sarva UP Gramin Bank",
+			"IIN": 607135
+		},
+		{
+			"Bank Name": "Saurashtra Gramin Bank",
+			"IIN": 607200
+		},
+		{
+			"Bank Name": "Shivalik Mercantile Cooperative Bank",
+			"IIN": 607119
+		},
+		{
+			"Bank Name": "South Indian Bank",
+			"IIN": 607475
+		},
+		{
+			"Bank Name": "State Bank of India",
+			"IIN": 607094
+		},
+		{
+			"Bank Name": "Sutlej Gramin Bank",
+			"IIN": 607310
+		},
+		{
+			"Bank Name": "Syndicate Bank",
+			"IIN": 607580
+		},
+		{
+			"Bank Name": "Tamilnad Mercantile Bank",
+			"IIN": 607187
+		},
+		{
+			"Bank Name": "Telangana Grameena Bank",
+			"IIN": 607195
+		},
+		{
+			"Bank Name": "The Saraswat Co-operative Bank Ltd",
+			"IIN": 652150
+		},
+		{
+			"Bank Name": "Tripura Gramin Bank",
+			"IIN": 607065
+		},
+		{
+			"Bank Name": "UCO Bank",
+			"IIN": 607066
+		},
+		{
+			"Bank Name": "Union Bank of India",
+			"IIN": 607161
+		},
+		{
+			"Bank Name": "United Bank Of India",
+			"IIN": 607646
+		},
+		{
+			"Bank Name": "Utkal Gramin Bank",
+			"IIN": 607234
+		},
+		{
+			"Bank Name": "Uttar Banga Kshetriya Gramin Bank",
+			"IIN": 607073
+		},
+		{
+			"Bank Name": "Uttar Bihar Grameen Bank",
+			"IIN": 607069
+		},
+		{
+			"Bank Name": "Uttarakhand Gramin Bank",
+			"IIN": 607197
+		},
+		{
+			"Bank Name": "Vananchal Gramin Bank",
+			"IIN": 607210
+		},
+		{
+			"Bank Name": "Vidarbha Konkan Gramin Bank",
+			"IIN": 607020
+		},
+		{
+			"Bank Name": "Vijaya Bank",
+			"IIN": 607075
+		},
+		{
+			"Bank Name": "RBL",
+			"IIN": 607393
+		},
+		{
+			"Bank Name": "UAT_BANK",
+			"IIN": 400021
+		}
+	]
+}

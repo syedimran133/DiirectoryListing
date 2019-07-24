@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Searchiigo</string>
+    <string name="todo">TODO</string>
+    <string name="textview">Rajesh Kumar</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="server_not_responding">The server is not responding properly, please try again later.</string>
+</resources>
